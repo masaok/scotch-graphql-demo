@@ -11,3 +11,7 @@ $ npm i # Alternatively yarn
 $ node server.js # If nodemon not installed
 $ nodemon server.js # If nodemon is installed
 ```
+
+# Source
+
+https://scotch.io/tutorials/a-practical-graphql-getting-started-guide-with-nodejs
